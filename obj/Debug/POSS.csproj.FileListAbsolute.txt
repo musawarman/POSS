@@ -1,0 +1,13 @@
+C:\Users\Musawarman\source\repos\POSS\bin\Debug\POSS.exe.config
+C:\Users\Musawarman\source\repos\POSS\bin\Debug\POSS.exe
+C:\Users\Musawarman\source\repos\POSS\bin\Debug\POSS.pdb
+C:\Users\Musawarman\source\repos\POSS\obj\Debug\POSS.csproj.AssemblyReference.cache
+C:\Users\Musawarman\source\repos\POSS\obj\Debug\POSS.frmKoneksi.resources
+C:\Users\Musawarman\source\repos\POSS\obj\Debug\POSS.Properties.Resources.resources
+C:\Users\Musawarman\source\repos\POSS\obj\Debug\POSS.csproj.GenerateResource.cache
+C:\Users\Musawarman\source\repos\POSS\obj\Debug\POSS.csproj.CoreCompileInputs.cache
+C:\Users\Musawarman\source\repos\POSS\obj\Debug\POSS.exe
+C:\Users\Musawarman\source\repos\POSS\obj\Debug\POSS.pdb
+C:\Users\Musawarman\source\repos\POSS\obj\Debug\POSS.frmLogin.resources
+C:\Users\Musawarman\source\repos\POSS\obj\Debug\POSS.Dashboard.resources
+C:\Users\Musawarman\source\repos\POSS\obj\Debug\POSS.frmUser.resources
